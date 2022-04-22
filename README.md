@@ -1,4 +1,4 @@
-# Hi people!
+# Hi folks!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-albuquerque-6a821a1b2/)](https://www.linkedin.com/in/danilo-albuquerque-6a821a1b2/)
 
