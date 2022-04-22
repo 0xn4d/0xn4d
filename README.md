@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-albuquerque-6a821a1b2/)](https://www.linkedin.com/in/danilo-albuquerque-6a821a1b2/)
 
-I am Danilo Albuquerque. I am 21 years old. I'm an information security enthusiastic and a developer in my free time. I love to learn new things, to test, to help, to be helped, and, of course, to contribute to our big community! I know how to develop applications using Java, Angular, Python (today I am learning a little bit more about its frameworks, such as Django and Flask). Now I have been working with Docker, Kubernetes, Google Cloud Platform, Linux OS, and too many other things, but I still am a bug hunter, haha! I have too many certifications in my LinkedIn profile, go there and take a look!
+I am Danilo Albuquerque. I am 21 years old. I'm an InfoSec enthusiastic and a developer in my free time. I love to learn new things, to test, to help, to be helped, and, of course, to contribute to our big community. I know how to develop applications using Java, Angular, Python (today I am learning a little bit more about its frameworks, such as Django and Flask). For now, I have been working with Docker, Kubernetes, Google Cloud Platform, Linux OS (different distros), and many other things. I love to hunt bugs in some platforms as well. I have some certifications at my LinkedIn profile, go there and take a look!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
