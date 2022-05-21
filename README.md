@@ -14,6 +14,11 @@ I am Danilo Albuquerque. I am 21 years old. I'm an InfoSec enthusiastic and a de
   <img align="center" alt="Kubernetes" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="center" alt="GCP-Console" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
+
+##
+### TryHackMe badge (05/21)
+
+<img width="230px" src="https://tryhackme-badges.s3.amazonaws.com/Chirrazza.png" alt="TryHackMe"> 
  
  ##
 
