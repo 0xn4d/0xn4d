@@ -16,12 +16,6 @@ I am Danilo Albuquerque. I am 21 years old. I'm an InfoSec enthusiastic and a de
 </div>
 
 ##
-### TryHackMe badge (06/22)
-
-<img width="230px" src="https://tryhackme-badges.s3.amazonaws.com/dawn0rdusk.png" alt="TryHackMe">
- 
- ##
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloalbuqrque&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
