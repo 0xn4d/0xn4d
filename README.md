@@ -24,17 +24,7 @@ I really like to study Reverse Engineering and to bypass security controls such 
   <img align="center" alt="GCP-Console" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
+
 ##
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloalbuqrque&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-  
-
-  
-
 
 If you have anything to add in any of my repositories, please DO! I will be happy to look and learn from all of you guys.
