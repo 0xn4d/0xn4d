@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-albuquerque-6a821a1b2/)](https://www.linkedin.com/in/daniloalbuqrque/)
 
-Call me n4d. I like Cyber Security. I already worked as an Application Security Engineer for a couple of FinTechs and now I am working as a Cyber Security Analyst (focused on Offensive Security - Red Team) yet for a FinTech company. 
+Call me n4d. I like Cyber Security. I already worked as an Application Security Engineer and, now, I am working as a Cyber Security Analyst (focused on Offensive Security - Red Team). 
 
 I love to learn new things and to contribute to the big CyberSec community. I know how to develop applications using Java, Angular, Python, C#, C++, C and GoLang. For now, I've worked with Docker, Kubernetes, Google Cloud Platform, Linux OS, and many other things. I love to hunt bugs in some platforms as well. 
 I have some certifications and acknowledges for some findings at my LinkedIn profile. Jump there and take a look.
